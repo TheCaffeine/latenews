@@ -1,6 +1,6 @@
 # LATENEWS
 ## Author
-Fredrick Wambua
+Mark Abenga
 
 ## Description
 This is an application that will enable users to list and preview news articles from various sources.
@@ -53,13 +53,13 @@ $ python3 -m pip install Flask-Script
 
 ## Known bugs
 The search functionality in the search form do not query results
-This bug is being solved as ther is continuous development and modification of the app to meet all the functionalities.
+This bug is being solved as there is continuous development and modification of the app to meet all the functionalities.
 
 ## Deployment
 To see how the application works, visit [latenews](https://cathupnews.herokuapp.com/)
 
 ## Licence
-Copyright 2021 Fredrick Wambua Musyoki
+Copyright 2021 Mark Abenga
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
