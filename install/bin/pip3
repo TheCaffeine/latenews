@@ -1,4 +1,4 @@
-#!/Users/liamabenger/PycharmProjects/latenews/virtual/bin/python3.9
+#!/Users/liamabenger/PycharmProjects/latenews/install/bin/python3.9
 # -*- coding: utf-8 -*-
 import re
 import sys
